@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sami Al Majanini | EEG &amp; Mechanistic Interpretability Researcher</title>
+  <meta name="description" content="Sami Al Majanini is a biomedical engineer researching EEG signal processing, Riemannian geometry, graph learning for neurological disease detection, and mechanistic interpretability.">
+  <meta name="author" content="Sami Al Majanini">
+  <link rel="canonical" href="https://samimj9.github.io/">
+  <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0c0e10" media="(prefers-color-scheme: dark)">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Sami Al Majanini">
+  <meta property="og:title" content="Sami Al Majanini | EEG &amp; Mechanistic Interpretability Researcher">
+  <meta property="og:description" content="Biomedical engineer researching EEG signal processing, Riemannian geometry, graph learning and mechanistic interpretability.">
+  <meta property="og:url" content="https://samimj9.github.io/">
+  <meta property="og:image" content="https://samimj9.github.io/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Sami Al Majanini: Biomedical Engineer, Researcher in EEG Signal Processing and Mechanistic Interpretability">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sami Al Majanini | EEG &amp; Mechanistic Interpretability Researcher">
+  <meta name="twitter:description" content="Biomedical engineer researching EEG signal processing, Riemannian geometry, graph learning and mechanistic interpretability.">
+  <meta name="twitter:image" content="https://samimj9.github.io/assets/og-image.png">
+
+  <!-- Icons -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <!-- Apply the saved theme before first paint (no flash) -->
+  <script>
+    try { var t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+
+  <link rel="preload" href="assets/fonts/newsreader-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="data/profile.json" as="fetch" crossorigin>
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- schema.org Person. TODO: add the ORCID URL to sameAs once you have it. -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Sami Al Majanini",
+    "jobTitle": "Biomedical Engineer and Researcher",
+    "description": "Researcher in EEG signal processing, Riemannian geometry, graph learning and mechanistic interpretability.",
+    "url": "https://samimj9.github.io/",
+    "image": "https://samimj9.github.io/assets/img/profile.jpg",
+    "alumniOf": { "@type": "CollegeOrUniversity", "name": "Lebanese University" },
+    "knowsAbout": ["EEG signal processing", "Riemannian geometry", "Graph neural networks", "Mechanistic interpretability", "Biomedical engineering"],
+    "sameAs": [
+      "https://github.com/Samimj9",
+      "https://scholar.google.com/citations?user=AeQggsQAAAAJ",
+      "https://www.linkedin.com/in/sami-al-majanini-558b0a229"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="nav" id="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="#top">
+        <span class="brand-mark" aria-hidden="true">SM</span>
+        <span class="brand-name">Sami Al Majanini</span>
+      </a>
+      <nav id="site-menu" class="menu" aria-label="Primary">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#research">Research</a></li>
+          <li><a href="#news">News</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="cv.html">Web CV</a></li>
+        </ul>
+      </nav>
+      <div class="nav-tools">
+        <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle color theme"></button>
+        <button id="menu-toggle" class="icon-btn menu-btn" type="button" aria-expanded="false" aria-controls="site-menu" aria-label="Open menu">
+          <span class="bars" aria-hidden="true"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- 00 Hero -->
+    <section class="hero" id="top" aria-labelledby="hero-name">
+      <canvas id="hero-canvas" aria-hidden="true"></canvas>
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <p class="eyebrow mono">Research portfolio</p>
+          <h1 id="hero-name">Sami Al Majanini</h1>
+          <p id="hero-role" class="role">Biomedical Engineer · Researcher in EEG Signal Processing &amp; Mechanistic Interpretability</p>
+          <p id="hero-statement" class="statement">I build geometry-aware models of EEG and open up the networks that learn from it. My work connects Riemannian methods on covariance manifolds, graph learning for neurological disease detection, and causal interpretability of EEG foundation models and large language models.</p>
+          <div id="hero-actions" class="hero-actions">
+            <noscript>
+              <a class="btn btn-primary" href="assets/cv.pdf">Curriculum Vitae</a>
+              <a class="btn btn-ghost" href="https://github.com/Samimj9">GitHub</a>
+              <a class="btn btn-ghost" href="https://scholar.google.com/citations?user=AeQggsQAAAAJ">Google Scholar</a>
+              <a class="btn btn-ghost" href="https://www.linkedin.com/in/sami-al-majanini-558b0a229">LinkedIn</a>
+            </noscript>
+          </div>
+        </div>
+        <figure class="photo">
+          <div id="photo-frame" class="photo-frame"><img class="photo-img" src="assets/img/profile.jpg" width="800" height="1000" alt="Sami Al Majanini" fetchpriority="high" loading="eager" decoding="async" style="object-position:center 38%"></div>
+        </figure>
+      </div>
+    </section>
+
+    <!-- 01 About -->
+    <section class="section reveal" id="about" aria-labelledby="about-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">01</span><h2 id="about-h">About</h2></div>
+        <div class="section-body about" id="about-body"></div>
+      </div>
+    </section>
+
+    <!-- 02 Research interests -->
+    <section class="section reveal" id="research" aria-labelledby="research-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">02</span><h2 id="research-h">Research interests</h2></div>
+        <div class="section-body" id="research-body"></div>
+      </div>
+    </section>
+
+    <!-- 03 News -->
+    <section class="section reveal" id="news" aria-labelledby="news-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">03</span><h2 id="news-h">News</h2></div>
+        <div class="section-body" id="news-body"></div>
+      </div>
+    </section>
+
+    <!-- 04 Publications -->
+    <section class="section reveal" id="publications" aria-labelledby="publications-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">04</span><h2 id="publications-h">Publications</h2></div>
+        <div class="section-body" id="publications-body"></div>
+      </div>
+    </section>
+
+    <!-- 05 Projects -->
+    <section class="section reveal" id="projects" aria-labelledby="projects-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">05</span><h2 id="projects-h">Projects</h2></div>
+        <div class="section-body" id="projects-body"></div>
+      </div>
+    </section>
+
+    <!-- 06 Experience -->
+    <section class="section reveal" id="experience" aria-labelledby="experience-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">06</span><h2 id="experience-h">Experience</h2></div>
+        <div class="section-body" id="experience-body"></div>
+      </div>
+    </section>
+
+    <!-- 07 Education -->
+    <section class="section reveal" id="education" aria-labelledby="education-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">07</span><h2 id="education-h">Education</h2></div>
+        <div class="section-body" id="education-body"></div>
+      </div>
+    </section>
+
+    <!-- 08 Contact -->
+    <section class="section reveal" id="contact" aria-labelledby="contact-h">
+      <div class="container section-grid">
+        <div class="section-head"><span class="num mono">08</span><h2 id="contact-h">Contact</h2></div>
+        <div class="section-body">
+          <p id="contact-blurb" class="lede"></p>
+          <div id="contact-body"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container foot-inner">
+      <p>© <span id="year">2026</span> <span id="foot-name">Sami Al Majanini</span>. Last updated <time id="updated"></time>.</p>
+      <p class="mono foot-meta">Plain HTML, CSS &amp; JS · no trackers</p>
+      <a class="to-top" href="#top">Back to top <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg></a>
+    </div>
+  </footer>
+
+  <noscript><p class="container" style="padding:1rem 0">JavaScript is needed to load the content sections on this page. Links in the hero still work.</p></noscript>
+  <script type="module" src="assets/js/main.js"></script>
+</body>
+</html>

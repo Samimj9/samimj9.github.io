@@ -1,0 +1,18 @@
+[
+  {
+    "degree": "MSc, Internet of Things & Smart Systems Engineering",
+    "school": "Lebanese University",
+    "location": "Lebanon",
+    "period": "TODO: start – end",
+    "summary": "Thesis: Belief Patching, on agent-specific belief representations in LLMs via activation patching.",
+    "points": ["TODO: advisor, GPA/distinction, relevant coursework or awards."]
+  },
+  {
+    "degree": "BSc, Biomedical Engineering",
+    "school": "TODO: University",
+    "location": "TODO: City, Country",
+    "period": "TODO: start – end",
+    "summary": "TODO: final-year project, honors or distinction.",
+    "points": []
+  }
+]

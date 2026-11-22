@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Research Intern",
+    "org": "NYU Abu Dhabi",
+    "location": "Abu Dhabi, UAE",
+    "period": "TODO: start – end",
+    "summary": "TODO: one sentence on the lab and the question you worked on.",
+    "points": [
+      "TODO: what you built or discovered (use numbers where you can).",
+      "TODO: methods and tools (e.g. EEG pipelines, interpretability, PyTorch).",
+      "TODO: outcome (paper, talk, code release)."
+    ]
+  },
+  {
+    "role": "TODO: Another role (research assistant, teaching, industry)",
+    "org": "TODO: Organization",
+    "location": "TODO: City, Country",
+    "period": "TODO: start – end",
+    "summary": "TODO: delete this entry if not needed.",
+    "points": []
+  }
+]

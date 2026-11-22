@@ -1,0 +1,60 @@
+{
+  "_help": "Edit values only. Anything starting with 'TODO' is a placeholder. Email is split in two parts so scrapers can't read it from the source.",
+  "name": "Sami Al Majanini",
+  "initials": "SM",
+  "siteUrl": "https://samimj9.github.io/",
+  "role": "Biomedical Engineer · Researcher in EEG Signal Processing & Mechanistic Interpretability",
+  "jobTitle": "Biomedical Engineer and Researcher",
+  "statement": "I build geometry-aware models of EEG and open up the networks that learn from it. My work connects Riemannian methods on covariance manifolds, graph learning for neurological disease detection, and causal interpretability of EEG foundation models and large language models.",
+
+  "photo": "assets/img/profile.jpg",
+  "photoPosition": "center 38%",
+  "photoAlt": "Sami Al Majanini in a dark green suit at the 8th International Conference on Advances in Biomedical Engineering (ICABME 2025)",
+
+  "about": [
+    "My graduate training is an MSc in Internet of Things & Smart Systems Engineering at the Lebanese University. My research spans EEG signal processing, Riemannian geometry on SPD manifolds, graph learning for neurological disease detection, and mechanistic interpretability, including Theory of Mind in large language models and EEG foundation models.",
+    "I am drawn to questions that sit between signal and mechanism: what structure does a brain recording actually carry, and what does a model learn to do with it? TODO: add one or two personal sentences about your motivation and what you are looking for next (PhD position, collaborations, industry role)."
+  ],
+  "facts": [
+    { "label": "Focus", "value": "EEG · Riemannian geometry · Graph learning · Interpretability" },
+    { "label": "Education", "value": "MSc IoT & Smart Systems Engineering, Lebanese University" },
+    { "label": "Based in", "value": "TODO: City, Country" },
+    { "label": "Languages", "value": "TODO: e.g. Arabic, English, French" }
+  ],
+
+  "interests": [
+    {
+      "title": "EEG & Brain Signals",
+      "icon": "eeg",
+      "text": "Preprocessing, source-space analysis and robust decoding of noisy, non-stationary neural recordings."
+    },
+    {
+      "title": "Riemannian Geometry",
+      "icon": "manifold",
+      "text": "Covariance matrices as points on SPD manifolds: geodesic distances, tangent-space features and geometry-aware learning."
+    },
+    {
+      "title": "Graph Neural Networks for Neuro",
+      "icon": "graph",
+      "text": "Connectivity-aware models that detect neurological disease, such as Alzheimer's, from source-space EEG graphs."
+    },
+    {
+      "title": "Mechanistic Interpretability",
+      "icon": "interp",
+      "text": "Activation patching and causal analysis to show how LLMs encode beliefs and how EEG foundation models represent brain activity."
+    }
+  ],
+
+  "links": {
+    "cv": "assets/cv.pdf",
+    "email": { "user": "TODO", "domain": "TODO" },
+    "github": "https://github.com/Samimj9",
+    "scholar": "https://scholar.google.com/citations?user=AeQggsQAAAAJ",
+    "linkedin": "https://www.linkedin.com/in/sami-al-majanini-558b0a229",
+    "orcid": "TODO: https://orcid.org/0000-0000-0000-0000"
+  },
+  "location": "TODO: City, Country",
+  "contactBlurb": "Open to research collaborations and conversations about EEG, geometry and interpretability. The best way to reach me is by email.",
+  "selfNames": ["S. Al Majanini", "Sami Al Majanini"],
+  "lastUpdated": "2026-11-22"
+}

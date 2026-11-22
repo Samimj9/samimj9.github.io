@@ -1,0 +1,39 @@
+[
+  {
+    "id": "almajanini2026gnn",
+    "_todo": "TODO: add authors, venue/arXiv link, and a year once submitted",
+    "type": "review",
+    "year": null,
+    "title": "Source-space EEG graph neural networks for Alzheimer's disease detection",
+    "authors": ["S. Al Majanini", "TODO: co-authors"],
+    "venue": "",
+    "venueShort": "",
+    "status": "Under review / in preparation",
+    "pdf": "",
+    "doi": "",
+    "code": "",
+    "bibtex": ""
+  },
+  {
+    "id": "almajanini2026neuroelectronics",
+    "_todo": "TODO: full title, co-authors, venue name, DOI, PDF, code and BibTeX",
+    "type": "conference",
+    "year": 2026,
+    "title": "TODO: Full title of the Neuroelectronics 2026 paper",
+    "authors": ["S. Al Majanini", "TODO: co-authors"],
+    "venue": "TODO: full conference name",
+    "venueShort": "Neuroelectronics 2026",
+    "bibtex": "@inproceedings{almajanini2026neuroelectronics,\n  author    = {Al Majanini, Sami and TODO},\n  title     = {TODO},\n  booktitle = {TODO: Proceedings of Neuroelectronics 2026},\n  year      = {2026}\n}"
+  },
+  {
+    "id": "almajanini2025icabme",
+    "_todo": "TODO: full title, co-authors, pages, DOI, PDF, code",
+    "type": "conference",
+    "year": 2025,
+    "title": "TODO: Full title of the ICABME 2025 paper",
+    "authors": ["S. Al Majanini", "TODO: co-authors"],
+    "venue": "8th International Conference on Advances in Biomedical Engineering (ICABME)",
+    "venueShort": "IEEE ICABME 2025",
+    "bibtex": "@inproceedings{almajanini2025icabme,\n  author    = {Al Majanini, Sami and TODO},\n  title     = {TODO},\n  booktitle = {2025 8th International Conference on Advances in Biomedical Engineering (ICABME)},\n  year      = {2025},\n  publisher = {IEEE}\n}"
+  }
+]
