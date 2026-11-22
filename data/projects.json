@@ -3,7 +3,12 @@
     "title": "CortexTrace",
     "initials": "CT",
     "pitch": "Causal mechanistic interpretability for EEG foundation models.",
-    "tags": ["EEG", "Foundation models", "Interpretability", "Causal analysis"],
+    "tags": [
+      "EEG",
+      "Foundation models",
+      "Interpretability",
+      "Causal analysis"
+    ],
     "github": "https://github.com/Samimj9/CortexTrace",
     "image": "",
     "accent": "#1f8a83",
@@ -11,10 +16,14 @@
   },
   {
     "title": "Belief Patching",
-    "subtitle": "MSc thesis",
+    "subtitle": "Research project",
     "initials": "BP",
     "pitch": "Agent-specific belief representations in LLMs, located and tested with activation patching.",
-    "tags": ["Theory of Mind", "LLMs", "Activation patching"],
+    "tags": [
+      "Theory of Mind",
+      "LLMs",
+      "Activation patching"
+    ],
     "github": "https://github.com/Samimj9/belief-patching",
     "image": "",
     "accent": "#4b5bc4",
@@ -24,7 +33,12 @@
     "title": "tom_interp",
     "initials": "TI",
     "pitch": "Interpretability library for Llama-3 and Qwen models.",
-    "tags": ["Python", "Llama-3", "Qwen", "Library"],
+    "tags": [
+      "Python",
+      "Llama-3",
+      "Qwen",
+      "Library"
+    ],
     "github": "https://github.com/Samimj9/tom_interp",
     "image": "",
     "accent": "#b4701a",
@@ -34,7 +48,12 @@
     "title": "SPD Manifold Visualizer",
     "initials": "SP",
     "pitch": "Interactive 3D visualization of EEG covariance matrices on the SPD(2) manifold.",
-    "tags": ["Riemannian geometry", "SPD(2)", "Visualization", "EEG"],
+    "tags": [
+      "Riemannian geometry",
+      "SPD(2)",
+      "Visualization",
+      "EEG"
+    ],
     "github": "https://github.com/Samimj9/spd-manifold-visualizer",
     "image": "",
     "accent": "#8a4fa8",
