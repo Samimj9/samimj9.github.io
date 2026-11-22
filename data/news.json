@@ -18,11 +18,11 @@
   },
   {
     "date": "2025",
-    "_todo": "TODO: add the exact date and a link to the paper",
-    "text": "Presented our work at the 8th International Conference on Advances in Biomedical Engineering (IEEE ICABME 2025), Lebanon."
+    "text": "Started a research internship at NYU Abu Dhabi on Theory of Mind in large language models."
   },
   {
-    "date": "TODO: date",
-    "text": "TODO: Started a research internship at NYU Abu Dhabi."
+    "date": "2025",
+    "text": "Presented GBrain, a graph signal processing approach to EEG-based attention detection, at IEEE ICABME 2025.",
+    "_todo": "TODO: exact date"
   }
 ]

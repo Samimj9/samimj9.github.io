@@ -5,7 +5,10 @@
     "type": "review",
     "year": null,
     "title": "Source-space EEG graph neural networks for Alzheimer's disease detection",
-    "authors": ["S. Al Majanini", "TODO: co-authors"],
+    "authors": [
+      "S. Al Majanini",
+      "TODO: co-authors"
+    ],
     "venue": "",
     "venueShort": "",
     "status": "Under review / in preparation",
@@ -20,20 +23,28 @@
     "type": "conference",
     "year": 2026,
     "title": "TODO: Full title of the Neuroelectronics 2026 paper",
-    "authors": ["S. Al Majanini", "TODO: co-authors"],
+    "authors": [
+      "S. Al Majanini",
+      "TODO: co-authors"
+    ],
     "venue": "TODO: full conference name",
     "venueShort": "Neuroelectronics 2026",
     "bibtex": "@inproceedings{almajanini2026neuroelectronics,\n  author    = {Al Majanini, Sami and TODO},\n  title     = {TODO},\n  booktitle = {TODO: Proceedings of Neuroelectronics 2026},\n  year      = {2026}\n}"
   },
   {
     "id": "almajanini2025icabme",
-    "_todo": "TODO: full title, co-authors, pages, DOI, PDF, code",
+    "_todo": "TODO: add pdf/code links (GBrain repo) and confirm Khalil's first name and page numbers",
     "type": "conference",
     "year": 2025,
-    "title": "TODO: Full title of the ICABME 2025 paper",
-    "authors": ["S. Al Majanini", "TODO: co-authors"],
-    "venue": "8th International Conference on Advances in Biomedical Engineering (ICABME)",
+    "title": "GBrain: A Graph Signal Processing Approach to EEG-Based Attention Detection",
+    "authors": [
+      "S. Al Majanini",
+      "M. Khalil"
+    ],
+    "venue": "2025 Eighth International Conference on Advances in Biomedical Engineering (ICABME)",
     "venueShort": "IEEE ICABME 2025",
-    "bibtex": "@inproceedings{almajanini2025icabme,\n  author    = {Al Majanini, Sami and TODO},\n  title     = {TODO},\n  booktitle = {2025 8th International Conference on Advances in Biomedical Engineering (ICABME)},\n  year      = {2025},\n  publisher = {IEEE}\n}"
+    "bibtex": "@inproceedings{almajanini2025gbrain,\n  author    = {Al Majanini, Sami and Khalil, Mohamad},\n  title     = {GBrain: A Graph Signal Processing Approach to EEG-Based Attention Detection},\n  booktitle = {2025 Eighth International Conference on Advances in Biomedical Engineering (ICABME)},\n  year      = {2025},\n  publisher = {IEEE},\n  doi       = {10.1109/ICABME66883.2025.11211822}\n}",
+    "doi": "10.1109/ICABME66883.2025.11211822",
+    "code": ""
   }
 ]

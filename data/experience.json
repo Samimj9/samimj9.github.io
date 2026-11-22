@@ -1,22 +1,26 @@
 [
   {
-    "role": "Research Intern",
-    "org": "NYU Abu Dhabi",
+    "role": "Research Intern, Theory of Mind in Large Language Models",
+    "org": "New York University Abu Dhabi (NYUAD)",
     "location": "Abu Dhabi, UAE",
-    "period": "TODO: start – end",
-    "summary": "TODO: one sentence on the lab and the question you worked on.",
+    "period": "2025 – Present",
+    "summary": "Supervised by Dr. Khouloud Samrouth.",
     "points": [
-      "TODO: what you built or discovered (use numbers where you can).",
-      "TODO: methods and tools (e.g. EEG pipelines, interpretability, PyTorch).",
-      "TODO: outcome (paper, talk, code release)."
+      "Investigating Theory of Mind capabilities in large language models: whether LLMs can model the beliefs, intentions and mental states of others.",
+      "Contributing to research at the intersection of cognitive science, NLP and human-centred AI."
     ]
   },
   {
-    "role": "TODO: Another role (research assistant, teaching, industry)",
-    "org": "TODO: Organization",
-    "location": "TODO: City, Country",
-    "period": "TODO: start – end",
-    "summary": "TODO: delete this entry if not needed.",
-    "points": []
+    "role": "Doctoral School Research Collaborator, EEG & Graph Signal Processing",
+    "org": "Lebanese University Doctoral School of Sciences and Technologie",
+    "location": "Tripoli, Lebanon",
+    "period": "2023 – 2025",
+    "summary": "Supervised by Prof. M. Khalil.",
+    "points": [
+      "Designed and implemented GBrain, a graph-theoretic EEG pipeline for real-time attention classification; results published at IEEE ICABME.",
+      "Self-recorded EEG from ten subjects with a Neuroelectronics headset under controlled attention paradigms, building the acquisition and preprocessing pipeline from scratch.",
+      "Developed NeuroClean Pro, an automatic EEG denoising tool using ICA and wavelet filtering.",
+      "Investigated functional brain connectivity via spectral analysis and graph-theoretic metrics on multi-channel EEG."
+    ]
   }
 ]

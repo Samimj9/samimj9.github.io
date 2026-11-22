@@ -63,6 +63,14 @@ if (projects?.length) {
         p.tags?.length ? h('p', { class: 'cv-tags mono', text: p.tags.join(' · ') }) : null))));
 }
 
+if (profile?.skills?.length) {
+  body.append(section('Technical skills', ...profile.skills.map((k) => h('p', { class: 'cv-text' }, h('strong', { text: k.label + ': ' }), k.value))));
+}
+if (profile?.facts) {
+  const lang = profile.facts.find((f) => f.label === 'Languages');
+  if (lang && !isTodo(lang.value)) body.append(section('Languages', h('p', { class: 'cv-text', text: lang.value })));
+}
+
 if (profile?.interests?.length) {
   body.append(section('Research interests', h('p', { class: 'cv-text', text: profile.interests.map((i) => i.title).join(' · ') })));
 }

@@ -6,22 +6,31 @@
   "role": "Biomedical Engineer · Researcher in EEG Signal Processing & Mechanistic Interpretability",
   "jobTitle": "Biomedical Engineer and Researcher",
   "statement": "I build geometry-aware models of EEG and open up the networks that learn from it. My work connects Riemannian methods on covariance manifolds, graph learning for neurological disease detection, and causal interpretability of EEG foundation models and large language models.",
-
   "photo": "assets/img/profile.jpg",
   "photoPosition": "center 38%",
   "photoAlt": "Sami Al Majanini in a dark green suit at the 8th International Conference on Advances in Biomedical Engineering (ICABME 2025)",
-
   "about": [
     "My graduate training is an MSc in Internet of Things & Smart Systems Engineering at the Lebanese University. My research spans EEG signal processing, Riemannian geometry on SPD manifolds, graph learning for neurological disease detection, and mechanistic interpretability, including Theory of Mind in large language models and EEG foundation models.",
-    "I am drawn to questions that sit between signal and mechanism: what structure does a brain recording actually carry, and what does a model learn to do with it? TODO: add one or two personal sentences about your motivation and what you are looking for next (PhD position, collaborations, industry role)."
+    "I am drawn to questions that sit between signal and mechanism: what structure does a brain recording actually carry, and what does a model learn to do with it? My earlier work on graph signal processing for EEG-based attention detection (GBrain, IEEE ICABME 2025) led me towards graph learning for disease detection and, at NYU Abu Dhabi, towards interpretability of language models. TODO: add what you are looking for next (PhD position, collaborations, industry role)."
   ],
   "facts": [
-    { "label": "Focus", "value": "EEG · Riemannian geometry · Graph learning · Interpretability" },
-    { "label": "Education", "value": "MSc IoT & Smart Systems Engineering, Lebanese University" },
-    { "label": "Based in", "value": "TODO: City, Country" },
-    { "label": "Languages", "value": "TODO: e.g. Arabic, English, French" }
+    {
+      "label": "Focus",
+      "value": "EEG · Riemannian geometry · Graph learning · Interpretability"
+    },
+    {
+      "label": "Education",
+      "value": "MSc IoT & Smart Systems Engineering, Lebanese University"
+    },
+    {
+      "label": "Based in",
+      "value": "Tripoli, Lebanon"
+    },
+    {
+      "label": "Languages",
+      "value": "Arabic (native), English (professional), French (intermediate)"
+    }
   ],
-
   "interests": [
     {
       "title": "EEG & Brain Signals",
@@ -44,17 +53,41 @@
       "text": "Activation patching and causal analysis to show how LLMs encode beliefs and how EEG foundation models represent brain activity."
     }
   ],
-
   "links": {
     "cv": "assets/cv.pdf",
-    "email": { "user": "TODO", "domain": "TODO" },
+    "email": {
+      "user": "samimajanini456",
+      "domain": "gmail.com"
+    },
     "github": "https://github.com/Samimj9",
     "scholar": "https://scholar.google.com/citations?user=AeQggsQAAAAJ",
     "linkedin": "https://www.linkedin.com/in/sami-al-majanini-558b0a229",
     "orcid": "TODO: https://orcid.org/0000-0000-0000-0000"
   },
-  "location": "TODO: City, Country",
+  "location": "Tripoli, Lebanon",
   "contactBlurb": "Open to research collaborations and conversations about EEG, geometry and interpretability. The best way to reach me is by email.",
-  "selfNames": ["S. Al Majanini", "Sami Al Majanini"],
-  "lastUpdated": "2026-11-22"
+  "selfNames": [
+    "S. Al Majanini",
+    "Sami Al Majanini"
+  ],
+  "lastUpdated": "2026-11-22",
+  "skills": [
+    {
+      "label": "Signal processing",
+      "value": "EEG, ECG, ICA, wavelet transforms, spectral analysis, functional connectivity, graph signal processing"
+    },
+    {
+      "label": "Machine learning & AI",
+      "value": "Supervised classification, feature engineering, PCA, dimensionality reduction, model evaluation"
+    },
+    {
+      "label": "Programming",
+      "value": "Python (NumPy, Pandas, Matplotlib, MNE, scikit-learn), PyTorch, MATLAB, R, Java"
+    },
+    {
+      "label": "Embedded & IoT",
+      "value": "Arduino, ESP32, Raspberry Pi, sensor networks, data acquisition, smart systems design"
+    }
+  ],
+  "_todo_skills": "PyTorch was added from the project descriptions; remove if not accurate."
 }

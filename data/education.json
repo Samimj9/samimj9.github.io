@@ -1,18 +1,23 @@
 [
   {
-    "degree": "MSc, Internet of Things & Smart Systems Engineering",
-    "school": "Lebanese University",
-    "location": "Lebanon",
-    "period": "TODO: start – end",
-    "summary": "Thesis: Belief Patching, on agent-specific belief representations in LLMs via activation patching.",
-    "points": ["TODO: advisor, GPA/distinction, relevant coursework or awards."]
+    "degree": "MSc, IoT and Smart Systems",
+    "school": "Lebanese University, Faculty of Engineering, Branch I",
+    "location": "Tripoli, Lebanon",
+    "period": "2025 – 2026",
+    "summary": "Focus: embedded AI, sensor networks, smart healthcare systems.",
+    "points": [
+      "TODO: confirm thesis title. Your CV lists \"EEG Based Attention Detection using Minimum Spanning Tree Network\"; the Belief Patching project is labelled MSc thesis."
+    ]
   },
   {
-    "degree": "BSc, Biomedical Engineering",
-    "school": "TODO: University",
-    "location": "TODO: City, Country",
-    "period": "TODO: start – end",
-    "summary": "TODO: final-year project, honors or distinction.",
-    "points": []
+    "degree": "Engineer's Degree (5-year), Biomedical Engineering",
+    "school": "City University",
+    "location": "Tripoli, Lebanon",
+    "period": "2019 – 2025",
+    "summary": "Final-year thesis: GBrain, a graph signal processing approach to EEG-based attention detection, supervised by Prof. Mohamad Khalil.",
+    "points": [
+      "GPA 3.14, with honor academic standing.",
+      "Coursework: biomedical signal processing, neural engineering, embedded systems, machine learning."
+    ]
   }
 ]
