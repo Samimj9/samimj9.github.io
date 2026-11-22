@@ -1,16 +1,13 @@
 [
   {
     "date": "TODO: date",
-    "text": "TODO: Released CortexTrace v0.1, a toolkit for causal interpretability of EEG foundation models.",
-    "link": ""
+    "text": "Preparing two manuscripts on graph neural networks for Alzheimer's disease: a review for IEEE Reviews in Biomedical Engineering and a resolution-aware source-space EEG study for Computers in Biology and Medicine."
   },
   {
-    "date": "TODO: date",
-    "text": "TODO: Submitted \"Source-space EEG graph neural networks for Alzheimer's disease detection\" for peer review."
-  },
-  {
-    "date": "TODO: date",
-    "text": "TODO: Paper accepted at Neuroelectronics 2026."
+    "date": "2026",
+    "text": "Our paper was published in Neuroelectronics.",
+    "link": "https://www.elspub.com/doi/10.55092/neuroelectronics20260007",
+    "_todo": "TODO: exact date"
   },
   {
     "date": "TODO: date",

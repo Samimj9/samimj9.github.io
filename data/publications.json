@@ -1,17 +1,35 @@
 [
   {
-    "id": "almajanini2026gnn",
-    "_todo": "TODO: add authors, venue/arXiv link, and a year once submitted",
+    "id": "almajanini-resolution-aware-gnn",
     "type": "review",
     "year": null,
-    "title": "Source-space EEG graph neural networks for Alzheimer's disease detection",
+    "title": "How Many Cortical Regions Can 19 Electrodes Resolve? Resolution-Aware Source-Space Graph Learning for Alzheimer's Disease Detection",
     "authors": [
       "S. Al Majanini",
       "TODO: co-authors"
     ],
-    "venue": "",
-    "venueShort": "",
-    "status": "Under review / in preparation",
+    "venue": "Computers in Biology and Medicine",
+    "venueShort": "Comput. Biol. Med.",
+    "status": "To be submitted",
+    "_todo": "TODO: co-authors; update status and add preprint/code links when available",
+    "pdf": "",
+    "doi": "",
+    "code": "",
+    "bibtex": ""
+  },
+  {
+    "id": "almajanini-brain-graph-review",
+    "type": "review",
+    "year": null,
+    "title": "The Brain Graph is the Model: A Connectome-to-Clinic Review of Graph Neural Networks for Alzheimer's Disease Diagnosis",
+    "authors": [
+      "S. Al Majanini",
+      "TODO: co-authors"
+    ],
+    "venue": "IEEE Reviews in Biomedical Engineering",
+    "venueShort": "IEEE RBME",
+    "status": "To be submitted",
+    "_todo": "TODO: co-authors; update status and add preprint link when available",
     "pdf": "",
     "doi": "",
     "code": "",
@@ -19,17 +37,19 @@
   },
   {
     "id": "almajanini2026neuroelectronics",
-    "_todo": "TODO: full title, co-authors, venue name, DOI, PDF, code and BibTeX",
-    "type": "conference",
+    "_todo": "TODO: paste the exact title, co-authors, volume/pages and BibTeX from https://www.elspub.com/doi/10.55092/neuroelectronics20260007",
+    "type": "journal",
     "year": 2026,
     "title": "TODO: Full title of the Neuroelectronics 2026 paper",
     "authors": [
       "S. Al Majanini",
       "TODO: co-authors"
     ],
-    "venue": "TODO: full conference name",
+    "venue": "Neuroelectronics",
     "venueShort": "Neuroelectronics 2026",
-    "bibtex": "@inproceedings{almajanini2026neuroelectronics,\n  author    = {Al Majanini, Sami and TODO},\n  title     = {TODO},\n  booktitle = {TODO: Proceedings of Neuroelectronics 2026},\n  year      = {2026}\n}"
+    "bibtex": "@article{almajanini2026neuroelectronics,\n  author  = {Al Majanini, Sami and TODO},\n  title   = {TODO},\n  journal = {Neuroelectronics},\n  year    = {2026},\n  doi     = {10.55092/neuroelectronics20260007}\n}",
+    "status": "Published",
+    "doi": "10.55092/neuroelectronics20260007"
   },
   {
     "id": "almajanini2025icabme",
